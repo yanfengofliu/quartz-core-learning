@@ -22,7 +22,7 @@ import org.slf4j.LoggerFactory;
 public class QuartzTest {
 	//个人测试
 	static Logger log = LoggerFactory.getLogger(QuartzTest.class);
-	
+	//你好
 	public static void main(String[] args) {
 		testStart();
 	}

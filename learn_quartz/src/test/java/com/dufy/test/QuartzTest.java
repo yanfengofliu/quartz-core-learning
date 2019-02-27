@@ -22,8 +22,6 @@ import org.slf4j.LoggerFactory;
 public class QuartzTest {
 	//个人测试测试个人
 	static Logger log = LoggerFactory.getLogger(QuartzTest.class);
-	//你好呀
-	//你
 	//你
 	public static void main(String[] args) {
 		testStart();

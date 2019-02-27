@@ -22,11 +22,11 @@ import org.slf4j.LoggerFactory;
 public class QuartzTest {
 	//个人测试测试个人
 	static Logger log = LoggerFactory.getLogger(QuartzTest.class);
-<<<<<<< HEAD
+
 	//你那你1213131313
 	//21212
-=======
->>>>>>> branch 'master' of https://github.com/yanfengofliu/quartz-core-learning
+
+
 	//你那你1212121212121212122
 	public static void main(String[] args) {
 		testStart();
